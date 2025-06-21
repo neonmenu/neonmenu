@@ -1,49 +1,74 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">🧼 NeonMenus – Clean Traces, Stay Invisible</h1>
 
-###
+<p align="center">
+  <a href="https://neonmenus.eu" target="_blank"><img src="https://img.shields.io/badge/Website-neonmenus.eu-ff2e63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&label=Follow&logo=github&color=2ecc71" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🧠 About
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+**NeonMenus** is a cutting-edge **trace cleaner** for FiveM environments, helping users:
 
-###
+- 🧼 Remove residual cheat traces
+- 🕵️ Stay undetected after modifications
+- 🧩 Minimize risk from R* and third-party logs
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+Built for stealth, speed, and simplicity.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## ⚙️ Features
 
-###
+- 🧹 Deep trace cleaning (client & server)
+- 🧪 Local & cloud log purging
+- 💻 Lightweight & portable interface
+- 🕳️ Advanced pattern scrubbing (DB, CFX, JSON, etc.)
+- 💾 Frequent updates with patch monitoring
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🔐 Why NeonMenus?
 
-###
+- 🚀 Ultra-fast: Instant cleaning routines
+- 🧬 Obfuscated logic for improved safety
+- 🛡️ Designed for minimal footprint
+- 🖥️ Compatible with most major FiveM menus
+
+> "You can't ban what you can't find."
+
+---
+
+## 📌 Quick Links
+
+- 🌐 Website: [neonmenus.eu](https://neonmenus.eu)
+- 📬 Contact: Provided on site
+- 🧩 Status: [Live and actively maintained]
+
+---
+
+## 💻 Technologies Used
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neonmenu&show_icons=true&theme=dracula" alt="Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neonmenu&theme=dracula" alt="Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Disclaimer: NeonMenus is provided for educational and testing purposes only. Use responsibly.</i>
+</p>
