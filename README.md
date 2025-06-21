@@ -47,6 +47,8 @@ Built for stealth, speed, and simplicity.
 - 📬 Contact: Provided on site
 - 🧩 Status: [Live and actively maintained]
 
+---
+
 <p align="center">
   <i>Disclaimer: NeonMenus is provided for educational and testing purposes only. Use responsibly.</i>
 </p>
