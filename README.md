@@ -63,8 +63,6 @@ Built for stealth, speed, and simplicity.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neonmenu&show_icons=true&theme=dracula" alt="Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neonmenu&theme=dracula" alt="Streak"/>
 </p>
 
 ---
