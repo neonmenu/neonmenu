@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://neonmenus.eu" target="_blank"><img src="https://img.shields.io/badge/Website-neonmenus.eu-ff2e63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&label=Follow&logo=github&color=2ecc71" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/neonmenu?style=for-the-badge&label=Follow&logo=github&color=2ecc71" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=neonmenu&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
