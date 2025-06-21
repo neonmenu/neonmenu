@@ -47,26 +47,6 @@ Built for stealth, speed, and simplicity.
 - 📬 Contact: Provided on site
 - 🧩 Status: [Live and actively maintained]
 
----
-
-## 💻 Technologies Used
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neonmenu&show_icons=true&theme=dracula" alt="Stats"/>
-</p>
-
----
-
 <p align="center">
   <i>Disclaimer: NeonMenus is provided for educational and testing purposes only. Use responsibly.</i>
 </p>
