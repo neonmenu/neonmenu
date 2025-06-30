@@ -9,7 +9,7 @@ Here you’ll find a curated collection of **FiveM menus, loaders, and source co
 
 - 🔧 **FiveM Menus** — Customizable menus for your FiveM servers  
 - ⚙️ **Loaders** — Efficient loaders to manage your scripts  
-- 📂 **Source Codes** — Leak finds and community drops (use responsibly)  
+- 📂 **Source Codes** — Various scripts and resources for development  
 
 ---
 
