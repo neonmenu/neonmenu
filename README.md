@@ -1,52 +1,60 @@
-<h1 align="center">🧼 NeonMenus – Clean Traces, Stay Invisible</h1>
+# 💡 LumeWare Repository
 
-<p align="center">
-  <a href="https://neonmenus.eu" target="_blank"><img src="https://img.shields.io/badge/Website-neonmenus.eu-ff2e63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-</p>
-
----
-
-## 🧠 About
-
-**NeonMenus** is a cutting-edge **trace cleaner** for FiveM environments, helping users:
-
-- 🧼 Remove residual cheat traces
-- 🕵️ Stay undetected after modifications
-- 🧩 Minimize risk from R* and third-party logs
-
-Built for stealth, speed, and simplicity.
+Welcome to the official **LumeWare** repository!  
+Here you’ll find a curated collection of **FiveM menus, loaders, and source codes**—all carefully organized for easy access.
 
 ---
 
-## ⚙️ Features
+## 🚀 What’s Inside
 
-- 🧹 Deep trace cleaning (client & server)
-- 🧪 Local & cloud log purging
-- 💻 Lightweight & portable interface
-- 🕳️ Advanced pattern scrubbing (DB, CFX, JSON, etc.)
-- 💾 Frequent updates with patch monitoring
+- 🔧 **FiveM Menus** — Customizable menus for your FiveM servers  
+- ⚙️ **Loaders** — Efficient loaders to manage your scripts  
+- 📂 **Source Codes** — Leak finds and community drops (use responsibly)  
 
 ---
 
-## 🔐 Why NeonMenus?
+## ⚠️ Disclaimer
 
-- 🚀 Ultra-fast: Instant cleaning routines
-- 🧬 Obfuscated logic for improved safety
-- 🛡️ Designed for minimal footprint
-- 🖥️ Compatible with most major FiveM menus
-
-> "You can't ban what you can't find."
+These resources are shared for educational and development purposes.  
+**Use everything at your own risk.**  
+We are **not responsible** for any damage or security issues caused by these files.  
+Always scan downloads with antivirus software before use.
 
 ---
 
-## 📌 Quick Links
+## 📥 How to Use
 
-- 🌐 Website: [neonmenus.eu](https://neonmenus.eu)
-- 📬 Contact: Provided on site
-- 🧩 Status: [Live and actively maintained]
+1. Browse the repository and find the resource you need.  
+2. Follow any included instructions or documentation.  
+3. Customize and implement the scripts in your FiveM server.  
 
 ---
 
-<p align="center">
-  <i>Disclaimer: NeonMenus is provided for educational and testing purposes only. Use responsibly.</i>
-</p>
+## 🤝 Contributing
+
+Contributions are welcome! If you want to:
+
+- Report bugs  
+- Suggest improvements  
+- Share your own scripts  
+
+Feel free to open an issue or a pull request. Let's build a better community together!
+
+---
+
+## 📢 License & Copyright
+
+All content is shared under the responsibility of the **LumeWare team**.  
+Respect original creators’ rights and do not redistribute without permission.
+
+---
+
+## 📬 Contact
+
+For questions, support, or requests, join us on our Discord server:  
+**discord.gg/your-invite-link** *(replace with your actual link)*
+
+---
+
+Thank you for visiting **LumeWare**! 💡  
+Happy scripting and enjoy your FiveM experience.
